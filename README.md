@@ -5,3 +5,4 @@ BSU 3term frist laba
 
 ![Image alt](https://github.com/Rrenkens/MVC-with-WinApi/blob/master/Example.png)
 
+*Элементы из Crowd удаляются рандомно.
