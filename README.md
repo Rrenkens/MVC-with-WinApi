@@ -1,8 +1,8 @@
 # MVC-with-WinApi
 BSU 3term frist laba
 
-Графическое приложение с использованием магии, WinAPI и паттерна MVC.
+A graphical application using WinAPI and the MVC pattern.
 
 ![Image alt](https://github.com/Rrenkens/MVC-with-WinApi/blob/master/Example.png)
 
-*Элементы из Crowd удаляются рандомно.
+*Items from crowd are deleted randomly.
